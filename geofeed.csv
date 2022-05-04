@@ -1,6 +1,7 @@
 # prefix,country_code,region_code,city,postal
 206.79.195.0/26,US,US-CA,Alpine,91901
 206.79.195.64/27,US,US-CA,Alpine,91901
+206.79.195.96/31,US,US-CA,Meifee,92584
 72.196.61.16/29,US,US-CA,Irvine,92614
 72.196.61.19/32,US,US-CA,Fullerton,92833
 98.186.18.240/29,US,US-CA,San Diego,92123
