@@ -1,0 +1,1 @@
+This list serves as RapidScale Inc. GeoFeed. It's purpose is to provide GeoIP service providers with an RFC 8805 compliant list of service addresses for our IP space. This file is published to AIRN's IRR to allow for automated discovery, following standards outlined in RFC 9092.
